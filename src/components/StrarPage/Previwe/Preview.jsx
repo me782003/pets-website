@@ -54,7 +54,7 @@ const Preview = ({ loading, homeData }) => {
                 {orangeOval}
                 <div className="oval_btn_text">Registrar...</div>
               </div>
-
+              
               <div
                 className="oval_button"
                 style={{
